@@ -1,7 +1,2 @@
-高二 HLOIer...
-
-蒟蒻一个
-
-AFO on 2023.7.28.
-
-——Knowledge Above All Nonsenses.
+- 哈尔滨师大附中，高三
+- 曾经是 OIer, AFO on 2023.7.28
